@@ -15,7 +15,7 @@ require (
 	github.com/spf13/viper v1.15.0
 	github.com/stretchr/testify v1.8.2
 	github.com/tendermint/tendermint v0.34.28
-	go.uber.org/zap v1.23.0
+	go.uber.org/zap v1.26.0
 	golang.org/x/sync v0.1.0
 	google.golang.org/grpc v1.54.0
 )
@@ -173,8 +173,7 @@ require (
 	github.com/zondax/ledger-go v0.14.1 // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	go.uber.org/atomic v1.10.0 // indirect
-	go.uber.org/multierr v1.8.0 // indirect
+	go.uber.org/multierr v1.10.0 // indirect
 	golang.org/x/crypto v0.7.0 // indirect
 	golang.org/x/exp v0.0.0-20230310171629-522b1b587ee0 // indirect
 	golang.org/x/mod v0.9.0 // indirect
